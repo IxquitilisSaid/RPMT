@@ -1,0 +1,11 @@
+I don't really have a structure here, but each .txt has a index at the end.
+They don't mean anything in particular, it's just to separate subjets and order of creation.
+
+##Quick Rundown
+- 0: Starting point for this madness (Hello, you are `HERE`)
+- 1: First draft of what I want on the first day of RPMT
+- 2: List of Themes I want to make and some key things about each
+- 3: General overview of how I will / want to make things look
+- 4: Log of shit I made on that day / To-Do / Pointer to _5.txt / Music theme for the day / Drink of the day
+- 5: Problems faced / Lessons learned
+- 6: Some considerations about the future of functionalities, etc (WARNING: It's as scattered as it gets) 

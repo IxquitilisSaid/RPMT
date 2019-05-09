@@ -1,0 +1,47 @@
+Fuck... So the idea that I have basically involves a "Theme Generator" for Twitter.
+Let's start small. What do I need?
+
+##Functionality CORE {
+  - Come up with a shtick for your Twitter (can be cycled)
+  - On generate the User should be able to select the "Strength" of this... Thing
+    - Check stuff beneath so it makes sense (this was made by 09/05/19 Gondola, so good luck future Me :^)
+      - It's 1 hour later and I'm already starting to forget what I meant with the line above... Fuck you past me
+  - Take your Username / Name and make a new one with the Theme
+  - Take your Bio and adapt it to fit the created Theme
+  - Generate an example tweet that can be posted on click
+    - Something something allow user to pick from theme related key-words and / or add their own for the tweets
+}
+
+
+
+
+Now regarding the Themes... I'll just start with hardcoded shit. 
+Listen, I ain't some A.I dev or whatever. Just your run-of-the-mill (do you even spell it like that?) Fullstack-ish Dev.
+
+##BASE THEMES (check themestorming.txt for deets) {
+  - GoT 
+    - Arya
+    - Patchface
+    - Clegane
+  - "'Murrican" (AKA Ken FUCKING Wheeler)
+  - Cowboy
+  - Weeb
+  - Silicon Valley
+}
+
+
+
+
+Some of these are probably out of my knowledge scope (or Twitter's API) but let's keep'em here. 
+Just for funsies :p
+
+**IDEAS TO MATURE {
+  - Create some sort of filter to also edit your profile Picture
+    - Should be soft (adding a small theme related sticker) or HÖRD (elon musk with Ed profile pic lvl)
+
+  - Something something apply a theme filter for the tweets sent
+    - At runtime (via webapp / app) || Trigger on post, apply stuff, post it and delete the original *shrug*
+    - Should have a selectable range so the user doesn't have to manually do that
+
+  - Should make a Theme Creator for Users to make their own or something
+}

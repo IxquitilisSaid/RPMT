@@ -1,0 +1,4 @@
+---- How to navigate this ----
+
+- Entries: Same as _log_4.txt. Just to point out pebbles in my way
+  * If marked with ++(X) then check "Fugg" folder for corresponding file with description and (hopefully) solution

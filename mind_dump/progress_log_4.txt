@@ -1,0 +1,28 @@
+##ENTRY 1 - And God said "ionic start RPMT blank" (09/05/19) {
+  #ADDED {
+    - All the mind_dump stuff
+      - Some barebones functionalities
+      - Brainstormed Theme ideas
+      - Organized (there was an attempt) the ramblings
+    
+    - Landing Basic Inputs
+      - Name / Username
+      - Theme Select
+      - "Run" button
+  }
+
+  #TO-DO {
+    - Make colour palette (Dark theme is the only correct scheme)
+    - Make a template for Themes
+    - Separate, within the select, Themes by thematic
+    - Find a better name for the "Run" button
+  }
+
+  #THEME OF THE DAY {
+    - https://www.youtube.com/watch?v=yQRmpTW0MTg&list=LLQ9nEkW9rlS5ps0HD2tu8kw&index=2
+  }
+
+  #DRINK OF THE DAY {
+    - Monster Ultra *sip*
+  }
+}

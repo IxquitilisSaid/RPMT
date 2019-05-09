@@ -1,0 +1,19 @@
+##ENTRY 1 {
+  #Landing {
+    - 2 sections
+      - Not using Twitter (Ask for relevant info to apply the theme)
+      - With Twitter (Fill with info from API)
+  }
+
+  #Either below Landing's Sections (2 rows -> 2 col / 1col) or make it the true Landing {
+    - Maybe show an animated demo of what it does or something
+  }
+
+  #Something something about reading person's tweets to generate better results {
+    - Hell if I know, I was thinking about some "algorithm" to make a profile of the User's mannerisms
+  }
+
+  #That stuff regarding "On The Fly" vs Reading the tweet, "Themeing" it and deleting the old one {
+    - Gotta check Twitter's API methods for that
+  } 
+}
