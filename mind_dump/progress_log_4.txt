@@ -26,3 +26,29 @@
     - Monster Ultra *sip*
   }
 }
+
+##ENTRY 2 - "This is a very complicated case, Maude. You know, a lotta ins, lotta outs, lotta what-have-you's" (10/05/19) {
+  #ADDED {
+    - Generic Theme format (stub)
+
+    - Discussion about the "algorithm" for Themes 
+  }
+
+  #TO-DO {
+    - Mature "algorithm" to a more tangible / codeable state
+
+    - Start messing around with Twitter's API
+
+    - Establish base masonry for RPMT's backend / deployment (stub)
+  }
+
+  #THEME OF THE DAY {
+    - https://www.youtube.com/watch?v=O3L-m7syRyI&list=RDAl-fFk1TsTg&index=7
+  }
+
+  #DRINK(S) OF THE DAY {
+    - Monster Rehab Peach
+
+    - Rockstar Tropical Guava
+  }
+}
