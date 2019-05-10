@@ -1,0 +1,57 @@
+Fucking hell, man... Let's just jump to a quick Q&A.
+
+##Why are you building this? {
+  - Because I'm fucking tired of people doubting my skills / knowledge as a Dev. 
+   - No shit I'm no wizard and I do have some knowledge gaps with really basic stuff, but that's the tradeoff for learning how to run before you can walk.
+
+  - Because I FUCKING LOVE CODING AND JAVASCRIPT
+    - Read the line above again
+
+  - Because it sounds really stupid as a concept (fuck Sillicon Valley startup, Starbucks and Allbirds culture) 
+    - And I love self deprecating humor
+      - "Oh you built some A.I startup that cooks you dinner and tells you that you're Worth It? Dude, I fucking made a Tweet theme-er"
+
+  - I want a dope challenge 
+}
+
+
+##Why do you have ./mind_dump? {
+  - I have ADHD, so I constantly write down what I'm thinking / working on.
+    - Since I write them as fast as I can, it's pretty "raw" (raw as in "I curse a lot and can't properly format my shit)
+  
+  - It's a way to log my thought process and stuff. Not like any future Recruiter will look at this and go "Fuck this dude is THE BALLS"
+    - Probably won't even get a thank you e-mail
+}
+
+
+##Wait... WHO are you? And who am I?? {
+  - I'm some random Luso-Brazilian Jew that lives in Germany. 
+    - Fullstack-ish, mostly Frontend & UX/UI
+    - Can recite the whole "U.S Marine" copypasta in a drop of a hat
+
+  - Who are you? You are me! I mean... You are you but in the context of `this`, I'm just talking to myself
+}
+
+
+##Why don't you use X package / A.I / Ouija board for handling the "to be generated" themed text? {
+  - Because
+    - The whole challenge of this shit is exactly THAT
+    - npm install --save deezcojones
+    - Because
+      - Read line above
+      - Recursion
+        - Read the line above
+        - Recursion
+          - Read the line above
+          - Recursion
+}
+
+
+##Okay, enough already! Just tell us how the Algorithm / Black Magic / 10 monkeys locked in a room with typewriters works! {
+  - Good question! I have no solid idea!
+    - I'll just throw stuff against the wall and see what sticks. Don't worry, all iterations will be (or they already are, if you're from the future) below.
+
+  @First attempt (stub) {
+    
+  }
+}

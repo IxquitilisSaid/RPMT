@@ -9,3 +9,4 @@ They don't mean anything in particular, it's just to separate subjets and order 
 - 4: Log of shit I made on that day / To-Do / Pointer to _5.txt / Music theme for the day / Drink of the day
 - 5: Problems faced / Lessons learned
 - 6: Some considerations about the future of functionalities, etc (WARNING: It's as scattered as it gets) 
+- 7: How the "algorithm" (hate that word) works / should work. It deserves it's own file because... Well, because it's gonna get messy
