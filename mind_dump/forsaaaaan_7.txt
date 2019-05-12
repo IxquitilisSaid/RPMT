@@ -29,7 +29,7 @@ Fucking hell, man... Let's just jump to a quick Q&A.
     - Fullstack-ish, mostly Frontend & UX/UI
     - Can recite the whole "U.S Marine" copypasta in a drop of a hat
 
-  - Who are you? You are me! I mean... You are you but in the context of `this`, I'm just talking to myself
+  - Who are you? You are me! I mean... You are you but in the context of `this`, I'm just talking to myself.
 }
 
 
